@@ -1,0 +1,1 @@
+[Khan Academy(project: Book synopsis)](https://www.khanacademy.org/computing/intro-to-python-fundamentals/x5279a44ae0ab15d6:analyzing-data-with-dictionaries/x5279a44ae0ab15d6:generating-text/pp/project-markov-chains)
